@@ -1,6 +1,6 @@
 cask "omni-converter" do
   version "1.0.0"
-  sha256 "63e6688cb34ab7d5b94352c5c9ceaaaec8c28d3ddc16d391a1ba69ccce9966ab"
+  sha256 "20ee954113f416dc034a41e30fd80e07a8da8f60b8d89e7d7de66a7855fc30f6"
 
   url "https://github.com/djordjejanjic/omni-converter/releases/download/v#{version}/omni-converter-#{version}.zip"
   name "Omni Converter"
